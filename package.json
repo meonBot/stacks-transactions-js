@@ -65,12 +65,12 @@
     "ts-jest": "^25.5.1",
     "ts-loader": "^6.2.2",
     "ts-node": "^8.10.2",
-    "typedoc": "^0.16.11",
+    "typedoc": "^0.21.10",
     "typescript": "^3.9.7",
     "webpack": "^4.44.1",
-    "webpack-bundle-analyzer": "^3.8.0",
+    "webpack-bundle-analyzer": "^4.0.0",
     "webpack-cli": "^3.3.12",
-    "webpack-dev-server": "^3.11.0"
+    "webpack-dev-server": "^4.0.0"
   },
   "dependencies": {
     "@types/bn.js": "^4.11.6",
